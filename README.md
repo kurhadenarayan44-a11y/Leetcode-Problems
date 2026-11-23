@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kurhadenarayan44-a11y/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/kurhadenarayan44-a11y/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/kurhadenarayan44-a11y/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
